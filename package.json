@@ -13,10 +13,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "better-sqlite3": "^9.2.2",
     "cookie-parser": "^1.4.6",
     "csrf-csrf": "^2.2.4",
     "ethers": "^6.2.3",
     "express": "^4.18.2",
+    "http-proxy-middleware": "^2.0.6",
     "vhost": "^3.0.2"
   },
   "devDependencies": {
